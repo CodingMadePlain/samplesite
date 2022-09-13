@@ -1,0 +1,1 @@
+document.getElementById("foot").innerHTML = "Created by Dele Oke";
